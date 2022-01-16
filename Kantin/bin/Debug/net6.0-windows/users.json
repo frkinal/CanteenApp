@@ -1,0 +1,16 @@
+{
+	"users": [
+		{
+			"kullaniciAdi": "inal",
+			"sifre": "inal123"
+		},
+		{
+			"kullaniciAdi": "findik",
+			"sifre": "findik123"
+		},
+		{
+			"kullaniciAdi": "furkan",
+			"sifre": "furkan123"
+		}
+	]
+}

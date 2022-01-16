@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r30Vwp1gG+4bCeAB5QJazU2Bns5ZQ+RCUk1IqtwFk2WzYKpzNpMNxLaBNJz6ShebXPfCief9V6smSn2EiX22pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\inalf\\source\\repos\\Kantin\\Kantin\\Kantin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inalf\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\inalf\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

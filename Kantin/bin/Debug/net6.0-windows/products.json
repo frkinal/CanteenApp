@@ -1,0 +1,132 @@
+{
+  "products": {
+    "success": true,
+    "status": "ok",
+    "Atistirmaliklar": [
+      {
+        "urunAdi": "Benim O",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Crax",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Lays",
+        "fiyat": 8
+      },
+      {
+        "urunAdi": "Burcak",
+        "fiyat": 5
+      },
+      {
+        "urunAdi": "Hosbes",
+        "fiyat": 8
+      },
+      {
+        "urunAdi": "Pizza",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Saklikoy",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Burcak Yulafli",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Biskuvi",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Nero",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Tutku",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "PopKek",
+        "fiyat": 4
+      }
+    ],
+    "FastFood": [
+      {
+        "urunAdi": "Patso",
+        "fiyat": 18
+      },
+      {
+        "urunAdi": "Kumru",
+        "fiyat": 20
+      },
+      {
+        "urunAdi": "Tost",
+        "fiyat": 15
+      },
+      {
+        "urunAdi": "Tavik doner",
+        "fiyat": 25
+      },
+      {
+        "urunAdi": "Simit",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Pogaca",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Pizza",
+        "fiyat": 30
+      },
+      {
+        "urunAdi": "Patates Kizartmasi",
+        "fiyat": 10
+      },
+      {
+        "urunAdi": "Boyoz",
+        "fiyat": 4
+      }
+    ],
+    "Icecekler": [
+      {
+        "urunAdi": "Meyve Suyu",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Kola",
+        "fiyat": 5
+      },
+      {
+        "urunAdi": "Limonata",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Ice Tea",
+        "fiyat": 5
+      },
+      {
+        "urunAdi": "Su",
+        "fiyat": 2
+      },
+      {
+        "urunAdi": "Cay",
+        "fiyat": 2
+      },
+      {
+        "urunAdi": "Kahve",
+        "fiyat": 3
+      },
+      {
+        "urunAdi": "Salgam",
+        "fiyat": 4
+      },
+      {
+        "urunAdi": "Mirra",
+        "fiyat": 4
+      }
+    ]
+  }
+}
